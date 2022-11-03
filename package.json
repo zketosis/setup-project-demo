@@ -15,7 +15,8 @@
     "build-storybook": "build-storybook",
     "test": "jest",
     "cypress:open": "cypress open",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "chromatic": "npx chromatic --list --dry-run --project-token=318b1cf336bf"
   },
   "dependencies": {
     "react": "^17.0.0",
@@ -40,7 +41,7 @@
     "@typescript-eslint/parser": "^5.4.0",
     "@vitejs/plugin-react": "^1.0.0",
     "babel-loader": "^8.2.3",
-    "chromatic": "^6.1.0",
+    "chromatic": "^6.11.4",
     "cypress": "^9.1.0",
     "eslint": "^8.2.0",
     "eslint-config-prettier": "^8.3.0",
@@ -62,5 +63,7 @@
     "ts-jest": "^27.0.7",
     "typescript": "^4.3.2",
     "vite": "^2.6.4"
-  }
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "demo-project@0.0.0"
 }
