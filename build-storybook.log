@@ -11,3 +11,32 @@ Use of eval is strongly discouraged, as it poses security risks and may cause is
 ✓ 859 modules transformed.
 Generated an empty chunk: "react-dom-client-placeholder"
 rendering chunks...
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/logo.ecc203fb.svg                             2.61 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/iframe.html                                          13.25 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/react-dom-client-placeholder.5c8bbb2f.js      0.00 KiB / gzip: 0.02 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/react-dom-client-placeholder.5c8bbb2f.js.map  0.12 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/renderDocs.7f8c205a.js                        2.38 KiB / gzip: 1.13 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/renderDocs.7f8c205a.js.map                    8.73 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/GlobalScrollAreaStyles-8793ce4a.3b7b79a5.js   10.04 KiB / gzip: 2.23 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/GlobalScrollAreaStyles-8793ce4a.3b7b79a5.js.map 18.66 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/WithTooltip-167e9982.01c1d046.js              37.46 KiB / gzip: 12.34 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/WithTooltip-167e9982.01c1d046.js.map          171.96 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/iframe.46050c08.css                           0.75 KiB / gzip: 0.48 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/Color-f953d088.bbfd1cf5.js                    32.04 KiB / gzip: 12.02 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/Color-f953d088.bbfd1cf5.js.map                125.47 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/OverlayScrollbars-1355f44c.303bf5d1.js        57.57 KiB / gzip: 24.70 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/OverlayScrollbars-1355f44c.303bf5d1.js.map    422.39 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/syntaxhighlighter-b07b042a.e37d176d.js        122.58 KiB / gzip: 46.58 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/syntaxhighlighter-b07b042a.e37d176d.js.map    449.32 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/index.9ab50b57.js                             452.22 KiB / gzip: 134.09 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/index.9ab50b57.js.map                         1097.83 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/formatter-0d5cb0eb.613a560c.js                700.94 KiB / gzip: 219.16 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/formatter-0d5cb0eb.613a560c.js.map            1616.70 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/iframe.51a9b287.js                            955.05 KiB / gzip: 266.23 KiB
+../../tmp/chromatic--5050-ctbyzCjvuhIb/assets/iframe.51a9b287.js.map                        2789.85 KiB
+
+(!) Some chunks are larger than 500 KiB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+info => Output directory: /tmp/chromatic--5050-ctbyzCjvuhIb
