@@ -1,0 +1,377 @@
+{
+  "announcedBuild": {
+    "id": "6363537a0fa70eb803783002",
+    "number": 13,
+    "status": "PUBLISHED",
+    "autoAcceptChanges": false,
+    "reportToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBJZCI6IjYzNjMyY2RiMjk2MzU5OTAxNjkzY2ZiMiIsImJ1aWxkSWQiOiI2MzYzNTM3YTBmYTcwZWI4MDM3ODMwMDIiLCJhdCI6MTY2NzQ1MzgxODEzNn0.EuYBwLnM4YTjZI0UbK3TlVYLfyInA1mY5Js2y7eNzgQ"
+  },
+  "buildLogFile": "/workspace/setup-project-demo/build-storybook.log",
+  "environment": {},
+  "exitCode": 23,
+  "exitCodeKey": "STORYBOOK_BROKEN",
+  "fileInfo": {
+    "lengths": [
+      {
+        "pathname": "0.b73eaee9a88f178d62ed.manager.bundle.js",
+        "contentLength": 11317,
+        "knownAs": "0.b73eaee9a88f178d62ed.manager.bundle.js"
+      },
+      {
+        "pathname": "1.f296d183a17268696d73.manager.bundle.js",
+        "contentLength": 53473,
+        "knownAs": "1.f296d183a17268696d73.manager.bundle.js"
+      },
+      {
+        "pathname": "10.9998ba67d65d81d20896.manager.bundle.js",
+        "contentLength": 9041,
+        "knownAs": "10.9998ba67d65d81d20896.manager.bundle.js"
+      },
+      {
+        "pathname": "11.49c687eaa6261f8b7be2.manager.bundle.js",
+        "contentLength": 144172,
+        "knownAs": "11.49c687eaa6261f8b7be2.manager.bundle.js"
+      },
+      {
+        "pathname": "11.49c687eaa6261f8b7be2.manager.bundle.js.LICENSE.txt",
+        "contentLength": 227,
+        "knownAs": "11.49c687eaa6261f8b7be2.manager.bundle.js.LICENSE.txt"
+      },
+      {
+        "pathname": "12.c9538ed3766c96f289e7.manager.bundle.js",
+        "contentLength": 1001,
+        "knownAs": "12.c9538ed3766c96f289e7.manager.bundle.js"
+      },
+      {
+        "pathname": "5.fa71488e730c5c7f885f.manager.bundle.js",
+        "contentLength": 90160,
+        "knownAs": "5.fa71488e730c5c7f885f.manager.bundle.js"
+      },
+      {
+        "pathname": "5.fa71488e730c5c7f885f.manager.bundle.js.LICENSE.txt",
+        "contentLength": 193,
+        "knownAs": "5.fa71488e730c5c7f885f.manager.bundle.js.LICENSE.txt"
+      },
+      {
+        "pathname": "6.8096ae4aadde0743697b.manager.bundle.js",
+        "contentLength": 27841,
+        "knownAs": "6.8096ae4aadde0743697b.manager.bundle.js"
+      },
+      {
+        "pathname": "7.b34baecbd082bc7b188d.manager.bundle.js",
+        "contentLength": 11222,
+        "knownAs": "7.b34baecbd082bc7b188d.manager.bundle.js"
+      },
+      {
+        "pathname": "8.15577edffecf900a8de2.manager.bundle.js",
+        "contentLength": 4938,
+        "knownAs": "8.15577edffecf900a8de2.manager.bundle.js"
+      },
+      {
+        "pathname": "9.d7d85aa0a49a98f17218.manager.bundle.js",
+        "contentLength": 15380,
+        "knownAs": "9.d7d85aa0a49a98f17218.manager.bundle.js"
+      },
+      {
+        "pathname": "assets/Color.c464a310.js",
+        "contentLength": 33608,
+        "knownAs": "assets/Color.c464a310.js"
+      },
+      {
+        "pathname": "assets/Color.c464a310.js.map",
+        "contentLength": 116208,
+        "knownAs": "assets/Color.c464a310.js.map"
+      },
+      {
+        "pathname": "assets/GlobalScrollAreaStyles.773d233b.js",
+        "contentLength": 10348,
+        "knownAs": "assets/GlobalScrollAreaStyles.773d233b.js"
+      },
+      {
+        "pathname": "assets/GlobalScrollAreaStyles.773d233b.js.map",
+        "contentLength": 18886,
+        "knownAs": "assets/GlobalScrollAreaStyles.773d233b.js.map"
+      },
+      {
+        "pathname": "assets/OverlayScrollbars.50596996.js",
+        "contentLength": 59433,
+        "knownAs": "assets/OverlayScrollbars.50596996.js"
+      },
+      {
+        "pathname": "assets/OverlayScrollbars.50596996.js.map",
+        "contentLength": 468576,
+        "knownAs": "assets/OverlayScrollbars.50596996.js.map"
+      },
+      {
+        "pathname": "assets/WithTooltip.3b97d0d7.js",
+        "contentLength": 39108,
+        "knownAs": "assets/WithTooltip.3b97d0d7.js"
+      },
+      {
+        "pathname": "assets/WithTooltip.3b97d0d7.js.map",
+        "contentLength": 169928,
+        "knownAs": "assets/WithTooltip.3b97d0d7.js.map"
+      },
+      {
+        "pathname": "assets/iframe.1d32a8d6.js",
+        "contentLength": 3612,
+        "knownAs": "assets/iframe.1d32a8d6.js"
+      },
+      {
+        "pathname": "assets/iframe.1d32a8d6.js.map",
+        "contentLength": 8807,
+        "knownAs": "assets/iframe.1d32a8d6.js.map"
+      },
+      {
+        "pathname": "assets/iframe.46050c08.css",
+        "contentLength": 770,
+        "knownAs": "assets/iframe.46050c08.css"
+      },
+      {
+        "pathname": "assets/logo.ecc203fb.svg",
+        "contentLength": 2671,
+        "knownAs": "assets/logo.ecc203fb.svg"
+      },
+      {
+        "pathname": "assets/syntaxhighlighter.047f8fc2.js",
+        "contentLength": 70016,
+        "knownAs": "assets/syntaxhighlighter.047f8fc2.js"
+      },
+      {
+        "pathname": "assets/syntaxhighlighter.047f8fc2.js.map",
+        "contentLength": 244358,
+        "knownAs": "assets/syntaxhighlighter.047f8fc2.js.map"
+      },
+      {
+        "pathname": "assets/vendor.fe1c3807.js",
+        "contentLength": 1340218,
+        "knownAs": "assets/vendor.fe1c3807.js"
+      },
+      {
+        "pathname": "assets/vendor.fe1c3807.js.map",
+        "contentLength": 3505292,
+        "knownAs": "assets/vendor.fe1c3807.js.map"
+      },
+      {
+        "pathname": "favicon.ico",
+        "contentLength": 32988,
+        "knownAs": "favicon.ico"
+      },
+      {
+        "pathname": "iframe.html",
+        "contentLength": 5120,
+        "knownAs": "iframe.html"
+      },
+      {
+        "pathname": "index.html",
+        "contentLength": 1880,
+        "knownAs": "index.html"
+      },
+      {
+        "pathname": "main.ce406c7e93b98325390e.manager.bundle.js",
+        "contentLength": 813333,
+        "knownAs": "main.ce406c7e93b98325390e.manager.bundle.js"
+      },
+      {
+        "pathname": "runtime~main.909d038f912f063e8837.manager.bundle.js",
+        "contentLength": 4625,
+        "knownAs": "runtime~main.909d038f912f063e8837.manager.bundle.js"
+      },
+      {
+        "pathname": "vendors~main.d3455eed64b243c89325.manager.bundle.js",
+        "contentLength": 1100587,
+        "knownAs": "vendors~main.d3455eed64b243c89325.manager.bundle.js"
+      },
+      {
+        "pathname": "vendors~main.d3455eed64b243c89325.manager.bundle.js.LICENSE.txt",
+        "contentLength": 2298,
+        "knownAs": "vendors~main.d3455eed64b243c89325.manager.bundle.js.LICENSE.txt"
+      }
+    ],
+    "paths": [
+      "0.b73eaee9a88f178d62ed.manager.bundle.js",
+      "1.f296d183a17268696d73.manager.bundle.js",
+      "10.9998ba67d65d81d20896.manager.bundle.js",
+      "11.49c687eaa6261f8b7be2.manager.bundle.js",
+      "11.49c687eaa6261f8b7be2.manager.bundle.js.LICENSE.txt",
+      "12.c9538ed3766c96f289e7.manager.bundle.js",
+      "5.fa71488e730c5c7f885f.manager.bundle.js",
+      "5.fa71488e730c5c7f885f.manager.bundle.js.LICENSE.txt",
+      "6.8096ae4aadde0743697b.manager.bundle.js",
+      "7.b34baecbd082bc7b188d.manager.bundle.js",
+      "8.15577edffecf900a8de2.manager.bundle.js",
+      "9.d7d85aa0a49a98f17218.manager.bundle.js",
+      "assets/Color.c464a310.js",
+      "assets/Color.c464a310.js.map",
+      "assets/GlobalScrollAreaStyles.773d233b.js",
+      "assets/GlobalScrollAreaStyles.773d233b.js.map",
+      "assets/OverlayScrollbars.50596996.js",
+      "assets/OverlayScrollbars.50596996.js.map",
+      "assets/WithTooltip.3b97d0d7.js",
+      "assets/WithTooltip.3b97d0d7.js.map",
+      "assets/iframe.1d32a8d6.js",
+      "assets/iframe.1d32a8d6.js.map",
+      "assets/iframe.46050c08.css",
+      "assets/logo.ecc203fb.svg",
+      "assets/syntaxhighlighter.047f8fc2.js",
+      "assets/syntaxhighlighter.047f8fc2.js.map",
+      "assets/vendor.fe1c3807.js",
+      "assets/vendor.fe1c3807.js.map",
+      "favicon.ico",
+      "iframe.html",
+      "index.html",
+      "main.ce406c7e93b98325390e.manager.bundle.js",
+      "runtime~main.909d038f912f063e8837.manager.bundle.js",
+      "vendors~main.d3455eed64b243c89325.manager.bundle.js",
+      "vendors~main.d3455eed64b243c89325.manager.bundle.js.LICENSE.txt"
+    ],
+    "total": 8421635
+  },
+  "flags": {
+    "projectToken": [
+      "4f5ad0eef3a3"
+    ],
+    "diagnostics": true,
+    "outputDir": [
+      "/tmp/123"
+    ],
+    "storybookBuildDir": [],
+    "externals": [],
+    "onlyStoryFiles": [],
+    "onlyStoryNames": [],
+    "untraced": [],
+    "interactive": true,
+    "appCode": []
+  },
+  "git": {
+    "version": "2.37.3",
+    "commit": "38aab368676443afd6615ee2bba9177f6c181dae",
+    "committedAt": 1667446410000,
+    "committerEmail": "ketosis@gmail.com",
+    "committerName": "Zed Zaxter",
+    "branch": "new-ish",
+    "slug": "zketosis/setup-project-demo",
+    "fromCI": false,
+    "parentCommits": []
+  },
+  "input": [],
+  "isolatorUrl": "https://63632cdb296359901693cfb2-ihamcpaqmy.chromatic.com/iframe.html",
+  "isOnboarding": false,
+  "options": {
+    "projectToken": "4f5ad0eef3a3",
+    "fromCI": false,
+    "dryRun": false,
+    "forceRebuild": true,
+    "verbose": false,
+    "interactive": true,
+    "preserveMissingSpecs": false,
+    "originalArgv": [
+      "--project-token=4f5ad0eef3a3",
+      "--diagnostics",
+      "--output-dir",
+      "/tmp/123"
+    ],
+    "buildScriptName": "build-storybook",
+    "outputDir": "/tmp/123",
+    "noStart": true,
+    "createTunnel": true,
+    "branchName": "",
+    "useTunnel": false
+  },
+  "packageJson": {
+    "name": "demo-project",
+    "version": "0.0.0",
+    "engines": {
+      "node": ">=16.11.0",
+      "npm": ">=8.0.0"
+    },
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build",
+      "serve": "vite preview",
+      "lint:scripts": "eslint --ext .ts,.tsx .",
+      "lint:styles": "stylelint \"src/**/*.css\"",
+      "storybook": "start-storybook -p 6006",
+      "build-storybook": "build-storybook",
+      "test": "jest",
+      "cypress:open": "cypress open",
+      "chromatic": "npx chromatic --list --dry-run --project-token=318b1cf336bf"
+    },
+    "dependencies": {
+      "react": "^17.0.0",
+      "react-dom": "^17.0.0"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.16.0",
+      "@commitlint/cli": "^15.0.0",
+      "@commitlint/config-conventional": "^15.0.0",
+      "@storybook/addon-actions": "^6.3.12",
+      "@storybook/addon-docs": "^6.3.12",
+      "@storybook/addon-essentials": "^6.3.12",
+      "@storybook/addon-links": "^6.3.12",
+      "@storybook/react": "^6.3.12",
+      "@testing-library/cypress": "^8.0.2",
+      "@testing-library/jest-dom": "^5.15.0",
+      "@testing-library/react": "^12.1.2",
+      "@types/jest": "^27.0.2",
+      "@types/react": "^17.0.0",
+      "@types/react-dom": "^17.0.0",
+      "@typescript-eslint/eslint-plugin": "^5.4.0",
+      "@typescript-eslint/parser": "^5.4.0",
+      "@vitejs/plugin-react": "^1.0.0",
+      "babel-loader": "^8.2.3",
+      "chromatic": "^6.11.4",
+      "cypress": "^9.1.0",
+      "eslint": "^8.2.0",
+      "eslint-config-prettier": "^8.3.0",
+      "eslint-plugin-cypress": "^2.12.1",
+      "eslint-plugin-jest": "^25.2.4",
+      "eslint-plugin-prettier": "^4.0.0",
+      "eslint-plugin-react": "^7.27.0",
+      "eslint-plugin-react-hooks": "^4.3.0",
+      "identity-obj-proxy": "^3.0.0",
+      "jest": "^27.3.1",
+      "prettier": "^2.4.1",
+      "semantic-release": "^18.0.1",
+      "storybook-builder-vite": "^0.1.7",
+      "stylelint": "^14.1.0",
+      "stylelint-config-prettier": "^9.0.3",
+      "stylelint-config-recess-order": "^3.0.0",
+      "stylelint-config-standard": "^24.0.0",
+      "ts-jest": "^27.0.7",
+      "typescript": "^4.3.2",
+      "vite": "^2.6.4"
+    },
+    "readme": "ERROR: No README data found!",
+    "_id": "demo-project@0.0.0"
+  },
+  "packagePath": "/workspace/setup-project-demo/package.json",
+  "sessionId": "9d20652c-d220-4c10-b9fd-9c3f6a56e0f8",
+  "sourceDir": "/tmp/123",
+  "spawnParams": {
+    "client": "npm",
+    "clientVersion": "7.24.2",
+    "nodeVersion": "v16.18.0",
+    "platform": "linux",
+    "command": "npm",
+    "clientArgs": [
+      "run",
+      "--silent"
+    ],
+    "scriptArgs": [
+      "build-storybook",
+      "--",
+      "--output-dir",
+      "/tmp/123"
+    ]
+  },
+  "startedAt": 1667453831658,
+  "storybook": {
+    "viewLayer": null,
+    "version": null,
+    "addons": [],
+    "builder": null
+  },
+  "uploadedBytes": 8421635,
+  "userError": true
+}
