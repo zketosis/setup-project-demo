@@ -1,6 +1,6 @@
 info @storybook/react v6.5.13
 info 
-info => Cleaning outputDir: /tmp/chromatic--3888-IUXnDGvWLKE3
+info => Cleaning outputDir: /tmp/chromatic--5050-ctbyzCjvuhIb
 info => Loading presets
 vite v2.9.15 building for production...
 transforming...
@@ -11,32 +11,3 @@ Use of eval is strongly discouraged, as it poses security risks and may cause is
 ✓ 859 modules transformed.
 Generated an empty chunk: "react-dom-client-placeholder"
 rendering chunks...
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/logo.ecc203fb.svg                             2.61 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/iframe.html                                          13.25 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/react-dom-client-placeholder.5c8bbb2f.js      0.00 KiB / gzip: 0.02 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/react-dom-client-placeholder.5c8bbb2f.js.map  0.12 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/renderDocs.e144d001.js                        2.38 KiB / gzip: 1.13 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/renderDocs.e144d001.js.map                    8.73 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/GlobalScrollAreaStyles-8793ce4a.956de629.js   10.04 KiB / gzip: 2.23 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/GlobalScrollAreaStyles-8793ce4a.956de629.js.map 18.66 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/WithTooltip-167e9982.d6d2ef26.js              37.46 KiB / gzip: 12.34 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/WithTooltip-167e9982.d6d2ef26.js.map          171.96 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/iframe.46050c08.css                           0.75 KiB / gzip: 0.48 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/Color-f953d088.7e538b36.js                    32.04 KiB / gzip: 12.02 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/Color-f953d088.7e538b36.js.map                125.47 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/OverlayScrollbars-1355f44c.4b4ba642.js        57.57 KiB / gzip: 24.70 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/OverlayScrollbars-1355f44c.4b4ba642.js.map    422.39 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/syntaxhighlighter-b07b042a.c70ad490.js        122.58 KiB / gzip: 46.58 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/syntaxhighlighter-b07b042a.c70ad490.js.map    449.32 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/index.862b8bf2.js                             452.22 KiB / gzip: 134.09 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/index.862b8bf2.js.map                         1097.83 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/formatter-0d5cb0eb.e4fd5c5a.js                700.94 KiB / gzip: 219.16 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/formatter-0d5cb0eb.e4fd5c5a.js.map            1616.70 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/iframe.57f6fefd.js                            955.04 KiB / gzip: 266.23 KiB
-../../tmp/chromatic--3888-IUXnDGvWLKE3/assets/iframe.57f6fefd.js.map                        2789.85 KiB
-
-(!) Some chunks are larger than 500 KiB after minification. Consider:
-- Using dynamic import() to code-split the application
-- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
-- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
-info => Output directory: /tmp/chromatic--3888-IUXnDGvWLKE3
